@@ -35,10 +35,3 @@ fun ScreenSetup(modifier: Modifier = Modifier) {
 fun MainScreen(modifier: Modifier = Modifier) {
 }
 
-@Preview(showBackground = true)
-@Composable
-fun GreetingPreview() {
-    RoomDemoTheme {
-        Greeting("Android")
-    }
-}
