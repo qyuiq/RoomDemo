@@ -1,6 +1,5 @@
 package com.example.roomdemo
 
-import ProductDao
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import kotlinx.coroutines.CoroutineScope
